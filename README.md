@@ -7,7 +7,7 @@ Criado por: Denky#0001
 
 **[Servidor de Suporte]** (https://discord.gg/rYT6QrM)
 
-##Tradutores:
+## Tradutores:
 
 **Portugues**
 

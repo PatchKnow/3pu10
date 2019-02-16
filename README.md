@@ -3,9 +3,9 @@ Meu primeiro projeto no GITHUB
 
 Criado por: Denky#0001
 
-**Adicione ela em seu servidor [clicando aqui](https://discordapp.com/oauth2/authorize?client_id=478977311266570242&scope=bot&permissions=8)**
+**Adicione ela em seu servidor [clicando aqui](https://discordapp.com/oauth2/authorize?client_id=478977311266570242&scope=bot&permissions=8)!**
 
-**[Servidor de Suporte]** (https://discord.gg/rYT6QrM)
+**Entre no servidor de suporte [clicando aqui](https://discord.gg/rYT6QrM)!**
 
 ## Tradutores:
 
@@ -23,14 +23,11 @@ Criado por: Denky#0001
 ## Build Pack
 
 ## Links das Builds Packs para FFMPEG
-**Crazycatz00**
->LINK: https://github.com/Crazycatz00/heroku-buildpack-libopus
+- **[Crazycatz00](https://github.com/Crazycatz00/heroku-buildpack-libopus)**
 
-**Alevfalse**
->LINK: https://github.com/alevfalse/heroku-buildpack-ffmpeg
+- **[Alevfalse](https://github.com/alevfalse/heroku-buildpack-ffmpeg)**
 
-**Guilherme-otran**
->LINK: https://github.com/guilherme-otran/heroku-buildpack-ffprobe
+- **[Guilherme-otran](https://github.com/guilherme-otran/heroku-buildpack-ffprobe)**
 
 # Commands
 

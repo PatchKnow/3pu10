@@ -18,7 +18,7 @@ Criado por: Denky#0001
 - Denky#0001
 
 # Informações sobre Server Host
-- [Build Pack](##Build-Pack)
+- [Build Pack](##build-pack)
 
 ## Build Pack
 

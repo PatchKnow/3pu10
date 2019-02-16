@@ -16,3 +16,8 @@ Criado por: Denky#0001
 **Ingles**
 
 - Denky#0001
+
+# Informações sobre Server Host
+- Build Pack
+
+## Build Pack

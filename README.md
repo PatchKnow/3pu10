@@ -18,6 +18,6 @@ Criado por: Denky#0001
 - Denky#0001
 
 # Informações sobre Server Host
-- [Build Pack](https://github.com/PatchKnow/3pu10/blob/master/READNE.md#build-pack)
+- [Build Pack](https://github.com/PatchKnow/3pu10/blob/master/README.md#build-pack)
 
 ## Build Pack

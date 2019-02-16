@@ -120,6 +120,14 @@ Criado por: Denky#0001
 >Descrição: Retorna uma lista de todos os emojis especiais do servidor.
 
 ## AsciiText Commands
+**ash textao (o seu texto aqui)**
+>Descrição: Transforma seu texto em um padrao ascii. Pra quem não sabe padrão Ascii é fazer seu texto usando outro tipo de caracteres.
+                       __            __                             _ 
+   ________  __  __   / /____  _  __/ /_____     ____ _____ ___  __(_)
+  / ___/ _ \/ / / /  / __/ _ \| |/_/ __/ __ \   / __ `/ __ `/ / / / / 
+ (__  )  __/ /_/ /  / /_/  __/>  </ /_/ /_/ /  / /_/ / /_/ / /_/ / /  
+/____/\___/\__,_/   \__/\___/_/|_|\__/\____/   \__,_/\__, /\__,_/_/   
+                                                       /_/            
 
 ## AutoDelete Commands
 

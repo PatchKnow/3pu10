@@ -21,3 +21,13 @@ Criado por: Denky#0001
 - [Build Pack](https://github.com/PatchKnow/3pu10/blob/master/README.md#build-pack)
 
 ## Build Pack
+
+##Links das Builds Packs para FFMPEG
+**Crazycatz00**
+###LINK: https://github.com/Crazycatz00/heroku-buildpack-libopus
+
+**Alevfalse**
+###LINK: https://github.com/alevfalse/heroku-buildpack-ffmpeg
+
+**Guilherme-otran**
+###LINK: https://github.com/guilherme-otran/heroku-buildpack-ffprobe

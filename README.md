@@ -133,6 +133,8 @@ Criado por: Denky#0001
 >Descrição: Mostra uma pequena ficha sobre o bot.
 
 ## CardsClass Commands
+**ash card**
+>Descrição: É um jogo que te mostrara uma carta aleatoria de Yu-Gi-Oh, pra ganhar o jogo você precisa acertar o nome da carta ou pelo menos chegar perto
 
 ## ChannelCreate Commands
 

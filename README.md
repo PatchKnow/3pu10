@@ -114,3 +114,163 @@ Criado por: Denky#0001
 - [UserInfo Commands](#userinfo-commands)
 - [VoteClass Commands](#voteclass-commands)
 - [WebhooksUpdate Commands](#webhooksupdate-commands)
+
+## AllEmoji Commands
+
+## AsciiText Commands
+
+## AutoDelete Commands
+
+## Avatar Commands
+
+## BotInfo Commands
+
+## CardsClass Commands
+
+## ChannelCreate Commands
+
+## ChannelDelete Commands
+
+## ChannelPinUpdate Commands
+
+## ChannelUpdate Commands
+
+## CharadeClass Commands
+
+## ConfigClass Commands
+
+## CreateDoc Commands
+
+## DadoClass Commands
+
+## DailyClass Commands
+
+## DanceClass Commands
+
+## DrawUsers Commands
+
+## Economy Commands
+
+## EmojiUpdate Commands
+
+## EnterMember Commands
+
+## EvalSintax Commands
+
+## FarmClass Commands
+
+## FeedBackClass Commands
+
+## ForceCass Commands
+
+## GameThinker Commands
+
+## GetGif Commands
+
+## GuildBank Commands
+
+## GuildUpdate Commands
+
+## HeadsOrTails Commands
+
+## Helper Commands
+
+## HugClass Commands
+
+## Inverse Commands
+
+## InviteClass Commands
+
+## JoKenPo Commands
+
+## KickClass Commands
+
+## KissClass Commands
+
+## LickClass Commands
+
+## LoadCog Commands
+
+## LogoutCog Commands
+
+## MarriedSystem Commands
+
+## MemberUpdate Commands
+
+## MusicDefault Commands
+
+## OnMemberJoin Commands
+
+## OnMemberRemove Commands
+
+## OnMessageDelete Commands
+
+## OnMessageEdit Commands
+
+## OnReady Commands
+
+## Panel Commands
+
+## PingMS Commands
+
+## PokemonClass Commands
+
+## ProfileSystem Commands
+
+## PunchClass Commands
+
+## PushClass Commands
+
+## Reflection Commands
+
+## RegisterAnnounce Commands
+
+## RegisterClass Commands
+
+## ReloadCog Commands
+
+## RepeatCommand Commands
+
+## RoleCreate Commands
+
+## RoleDelete Commands
+
+## RoleInfo Commands
+
+## RoleUpdate Commands
+
+## SaySomething Commands
+
+## ServerInfo Commands
+
+## Shards Commands
+
+## SkinMine Commands
+
+## SlapClass Commands
+
+## SourceGit Commands
+
+## StaffAdmin Commands
+
+## StatusClass Commands
+
+## SystemMessage Commands
+
+## Thinkers Commands
+
+## TopClass Commands
+
+## TotComandos Commands
+
+## UnloadCog Commands
+
+## UpTimeOnline Commands
+
+## UserBank Commands
+
+## UserInfo Commands
+
+## VoteClass Commands
+
+## WebhooksUpdate Commands

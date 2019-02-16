@@ -11,8 +11,8 @@ Criado por: Denky#0001
 
 **Portugues**
 
--Denky#0001
+- Denky#0001
 
 **Ingles**
 
--Denky#0001
+- Denky#0001

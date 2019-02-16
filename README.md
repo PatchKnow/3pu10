@@ -128,8 +128,12 @@ Criado por: Denky#0001
 >Descrição: Mostra sua mensagem (fofoca) e a deleta depois de alguns segundos. A mensagem que você mandou tambem sera deletada.
 
 ## Avatar Commands
+**ash avatar @(O usuario o qual você deseja ver o avatar.)**
+>Descrição: Mostra o avatar da pessoa marcada, caso você não marque ninguem mostrara seu proprio avatar.
 
 ## BotInfo Commands
+**ash botinfo**
+>Descrição: Mostra uma pequena ficha sobre o bot.
 
 ## CardsClass Commands
 

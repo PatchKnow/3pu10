@@ -116,6 +116,8 @@ Criado por: Denky#0001
 - [WebhooksUpdate Commands](#webhooksupdate-commands)
 
 ## AllEmoji Commands
+**ash emoji**
+>Descrição: Retorna uma lista de todos os emojis especiais do servidor.
 
 ## AsciiText Commands
 

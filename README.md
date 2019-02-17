@@ -35,12 +35,9 @@ Criado por: Denky#0001
 - [AsciiText Commands](#asciitext-commands)
 - [AutoDelete Commands](#autodelete-commands)
 - [Avatar Commands](#avatar-commands)
+- [Booket Commands](#booket-commands)
 - [BotInfo Commands](#botinfo-commands)
 - [CardsClass Commands](#cardsclass-commands)
-- [ChannelCreate Commands](#channelcreate-commands)
-- [ChannelDelete Commands](#channeldelete-commands)
-- [ChannelPinUpdate Commands](#channelpinupdate-commands)
-- [ChannelUpdate Commands](#channelupdate-commands)
 - [CharadeClass Commands](#charadeclass-commands)
 - [ConfigClass Commands](#configclass-commands)
 - [CreateDoc Commands](#createdoc-commands)
@@ -128,6 +125,10 @@ Criado por: Denky#0001
 **ash avatar @(O usuario o qual você deseja ver o avatar.)**
 >Descrição: Mostra o avatar da pessoa marcada, caso você não marque ninguem mostrara seu proprio avatar.
 
+## Booket Commands
+**ash bok @(pessoa desejada)**
+>Descrição: Esse é um comando NSFW especifico para aqueles que usam o sistema de casamento do bot e apenas pode ser feito entra parceiros.
+
 ## BotInfo Commands
 **ash botinfo**
 >Descrição: Mostra uma pequena ficha sobre o bot.
@@ -168,7 +169,7 @@ Criado por: Denky#0001
 **ash tessouro (moeda desejada)**
 >Descrição: Mostra quanto o servidor que você esta tem de uma determinada moeda. Você pode usar o comando apenas como ash tessouro caso queira ver a lista de moedas.
 
-**ash carteira**
+**ash carteira (moeda desejada)**
 >Descrição: Mostra quanto você tem de determinada moeda. Você pode usar o comando apenas como ash carteira caso queira ver a lista de moedas.
 
 **ash daily**
@@ -177,10 +178,14 @@ Criado por: Denky#0001
 ## EmojiUpdate Commands
 
 ## EnterMember Commands
+**ash entrou @(a pessoa que você quer checar)**
+>Descrição: Esse comando te dira a exata data que um usuario entrou
 
 ## EvalSintax Commands
+**!!Comando exclusivo para a equipe de criação do bot!!**
 
 ## FarmClass Commands
+
 
 ## FeedBackClass Commands
 

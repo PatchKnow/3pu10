@@ -136,29 +136,43 @@ Criado por: Denky#0001
 **ash card**
 >Descrição: É um jogo que te mostrara uma carta aleatoria de Yu-Gi-Oh, pra ganhar o jogo você precisa acertar o nome da carta ou pelo menos chegar perto
 
-## ChannelCreate Commands
-
-## ChannelDelete Commands
-
-## ChannelPinUpdate Commands
-
-## ChannelUpdate Commands
-
 ## CharadeClass Commands
+**ash charade ou ash charada**
+>Descrição: É um jogo que te mostrara uma charada na tela e pra ganhar você tera que respondela corretamente.
 
 ## ConfigClass Commands
 
 ## CreateDoc Commands
+**ash make_doc**
+>Descrição: Cria um arquivo .md que ajuda a criar um arquivo README.md.
 
 ## DadoClass Commands
+**ash rolar xdy**
+>Descrição: Esse comando é feito pra rolar dados. X é o numero de dados e Y o numero de faces dos dados.
 
 ## DailyClass Commands
 
 ## DanceClass Commands
+**ash dance @(marque uma pessoa)**
+>Descrição: Esse comando mostra um gif de dança onde "você dança que você marcou".
 
 ## DrawUsers Commands
+**ash sorteio**
+>Descrição: Sorteia um membro aleatorio do servidor.
 
 ## Economy Commands
+### Sistema de Economia
+**ash economy (moeda desejada)**
+>Descrição: Mostra quanto todos os servidores tem de uma determinada moeda. Você pode usar o comando apenas como ash economy caso queira ver a lista de moedas.
+
+**ash tessouro (moeda desejada)**
+>Descrição: Mostra quanto o servidor que você esta tem de uma determinada moeda. Você pode usar o comando apenas como ash tessouro caso queira ver a lista de moedas.
+
+**ash carteira**
+>Descrição: Mostra quanto você tem de determinada moeda. Você pode usar o comando apenas como ash carteira caso queira ver a lista de moedas.
+
+**ash daily**
+>Descrição: De da uma quantia de dinheiro diaria pra você.
 
 ## EmojiUpdate Commands
 

@@ -194,7 +194,7 @@ Criado por: Denky#0001
 
 ## GetGif Commands
 **ash gif (palavra chave do gif)**
-Descrição: Busca e mostra um gif baseado em uma palavra chave qualquer que você queira.
+>Descrição: Busca e mostra um gif baseado em uma palavra chave qualquer que você queira.
 
 ## GuildUpdate Commands
 
@@ -208,7 +208,7 @@ Descrição: Busca e mostra um gif baseado em uma palavra chave qualquer que voc
 
 ## HugClass Commands
 **ash hug @(marque uma pessoa)**
-Descrição: Esse comando envia um gif de , onde você " quem você marcou". Ele funciona como o comando ash dance [clique aqui](#danceclass-commands) para ver a imagem.
+>Descrição: Esse comando envia um gif de , onde você " quem você marcou". Ele funciona como o comando ash dance [clique aqui](#danceclass-commands) para ver a imagem.
 
 ## Inverse Commands
 
@@ -218,15 +218,15 @@ Descrição: Esse comando envia um gif de , onde você " quem você marcou". Ele
 
 ## KickClass Commands
 **ash kick @(marque uma pessoa)**
-Descrição: Esse comando envia um gif de chute, onde "você chuta quem você marcou". Ele funciona como o comando ash dance [clique aqui](#danceclass-commands) para ver a imagem.
+>Descrição: Esse comando envia um gif de chute, onde "você chuta quem você marcou". Ele funciona como o comando ash dance [clique aqui](#danceclass-commands) para ver a imagem.
 
 ## KissClass Commands
 **ash kiss @(marque uma pessoa)**
-Descrição: Esse comando envia um gif de beijo, onde "você beija quem você marcou". Ele funciona como o comando ash dance [clique aqui](#danceclass-commands) para ver a imagem.
+>Descrição: Esse comando envia um gif de beijo, onde "você beija quem você marcou". Ele funciona como o comando ash dance [clique aqui](#danceclass-commands) para ver a imagem.
 
 ## LickClass Commands
 **ash lick @(marque uma pessoa)**
-Descrição: Esse comando envia um gif de lambida, onde "você lambe quem você marcou". Ele funciona como o comando ash dance [clique aqui](#danceclass-commands) para ver a imagem.
+>Descrição: Esse comando envia um gif de lambida, onde "você lambe quem você marcou". Ele funciona como o comando ash dance [clique aqui](#danceclass-commands) para ver a imagem.
 
 ## LoadCog Commands
 **!!Comando exclusivo para a equipe de criação do bot!!**
@@ -241,28 +241,35 @@ Descrição: Esse comando envia um gif de lambida, onde "você lambe quem você 
 ## Panel Commands
 
 ## PingMS Commands
+**ash ping**
+>Descrição: Retorna uma mensagem com a latencia atual do bot.
 
 ## PokemonClass Commands
 **ash pokemon**
-Descrição: O comando mostra a imagem de um sprite de um pokemon (6ª Geração) e você tem que adivinhar o nome do pokemon em questão. O comando pokemon funciona da mesma maneira que o comando carta para ver a imagem [clique aqui](#cardsclass-commands).
+>Descrição: O comando mostra a imagem de um sprite de um pokemon (6ª Geração) e você tem que adivinhar o nome do pokemon em questão. O comando pokemon funciona da mesma maneira que o comando carta para ver a imagem [clique aqui](#cardsclass-commands).
 
 ## ProfileSystem Commands
 
 ## PunchClass Commands
 **ash punch @(marque uma pessoa)**
-Descrição: Esse comando envia um gif de soco, onde "você soca quem você marcou". Ele funciona como o comando ash dance [clique aqui](#danceclass-commands) para ver a imagem.
+>Descrição: Esse comando envia um gif de soco, onde "você soca quem você marcou". Ele funciona como o comando ash dance [clique aqui](#danceclass-commands) para ver a imagem.
 
 ## PushClass Commands
 **ash push @(marque uma pessoa)**
-Descrição: Esse comando envia um gif de empurrão, onde "você empurra quem você marcou". Ele funciona como o comando ash dance [clique aqui](#danceclass-commands) para ver a imagem.
+>Descrição: Esse comando envia um gif de empurrão, onde "você empurra quem você marcou". Ele funciona como o comando ash dance [clique aqui](#danceclass-commands) para ver a imagem.
 
 ## Reflection Commands
+**ash reflita**
+>Descrição: Manda uma imagem com uma frase de reflexão. Você pode colocar zueira na frente pra ver frases mais descontraidas.
 
 ## RegisterAnnounce Commands
 
 ## RegisterClass Commands
+**ash register**
+>Descrição: Esse comando te registra dentro do banco de dados do bot, é preciso estar registrado pra usar certos comandos.
 
 ## ReloadCog Commands
+**!!Comando exclusivo para a equipe de criação do bot!!**
 
 ## RepeatCommand Commands
 
@@ -271,6 +278,8 @@ Descrição: Esse comando envia um gif de empurrão, onde "você empurra quem vo
 ## RoleDelete Commands
 
 ## RoleInfo Commands
+**ash roleinfo @(o cargo que você quer checar)**
+>Descrição: Mostra um embed com algumas informações sobre o cargo que você marcou.
 
 ## RoleUpdate Commands
 
@@ -284,9 +293,11 @@ Descrição: Esse comando envia um gif de empurrão, onde "você empurra quem vo
 
 ## SlapClass Commands
 **ash slap @(marque uma pessoa)**
-Descrição: Esse comando envia um gif de tapa, onde "você bate quem você marcou". Ele funciona como o comando ash dance [clique aqui](#danceclass-commands) para ver a imagem.
+>Descrição: Esse comando envia um gif de tapa, onde "você bate quem você marcou". Ele funciona como o comando ash dance [clique aqui](#danceclass-commands) para ver a imagem.
 
 ## SourceGit Commands
+**ash source (um comando da ashley)**
+>Descrição: Esse comando te da o link pro github do arquivo que se refere ao comando que você citou
 
 ## StaffAdmin Commands
 
@@ -295,12 +306,15 @@ Descrição: Esse comando envia um gif de tapa, onde "você bate quem você marc
 ## SystemMessage Commands
 
 ## Thinkers Commands
+**ash pensador**
+Descrição: Manda uma frase do pensador pra você pensar.
 
 ## TopClass Commands
 
 ## TotComandos Commands
 
 ## UnloadCog Commands
+**!!Comando exclusivo para a equipe de criação do bot!!**
 
 ## UpTimeOnline Commands
 

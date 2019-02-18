@@ -229,8 +229,10 @@ Descrição: Esse comando envia um gif de beijo, onde "você beija quem você ma
 Descrição: Esse comando envia um gif de lambida, onde "você lambe quem você marcou". Ele funciona como o comando ash dance [clique aqui](#danceclass-commands) para ver a imagem.
 
 ## LoadCog Commands
+**!!Comando exclusivo para a equipe de criação do bot!!**
 
 ## LogoutCog Commands
+**!!Comando exclusivo para a equipe de criação do bot!!**
 
 ## MarriedSystem Commands
 
@@ -241,6 +243,8 @@ Descrição: Esse comando envia um gif de lambida, onde "você lambe quem você 
 ## PingMS Commands
 
 ## PokemonClass Commands
+**ash pokemon**
+Descrição: O comando mostra a imagem de um sprite de um pokemon (6ª Geração) e você tem que adivinhar o nome do pokemon em questão. O comando pokemon funciona da mesma maneira que o comando carta para ver a imagem [clique aqui](#cardsclass-commands).
 
 ## ProfileSystem Commands
 

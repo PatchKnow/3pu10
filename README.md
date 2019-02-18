@@ -279,6 +279,8 @@ Criado por: Denky#0001
 >Descrição: Mostra um embed com algumas informações sobre o cargo que você marcou.
 
 ## SaySomething Commands
+**ash say (sua mensagem)**
+>Descrição: O bot manda uma mensagem com o que vc tiver escrito.
 
 ## ServerInfo Commands
 

@@ -1,7 +1,7 @@
 # 🧙‍♀️Ashley🧝‍♀️
 Meu primeiro projeto no GITHUB
 
-Criado por: Denky#0001
+Criado por: Denky#0001🤴
 
 **Adicione ela em seu servidor [clicando aqui](https://discordapp.com/oauth2/authorize?client_id=478977311266570242&scope=bot&permissions=8)!**😁
 
@@ -212,6 +212,8 @@ Criado por: Denky#0001
 >Descrição: Manda um palindromo, palavra que faz sentido tanto lendo da direita pra esquerda quando da esquerda pra direita, pra você.
 
 ## InviteClass Commands
+**ash convite**
+>Descrição: Envia pro seu privado um convite pro servidor de suporte/comunidade da Ashley.
 
 ## JoKenPo Commands
 **ash jokenpo**
@@ -283,6 +285,8 @@ Criado por: Denky#0001
 >Descrição: O bot manda uma mensagem com o que vc tiver escrito.
 
 ## ServerInfo Commands
+**ash serverinfo**
+>Descrição: Retorna um embed com as informações do servidor em que você esta.
 
 ## Shards Commands
 
@@ -301,6 +305,8 @@ Criado por: Denky#0001
 ## StaffAdmin Commands
 
 ## StatusClass Commands
+**ash status**
+>Descrição: Te devolve sua fixa de atributos referente ao futuro sistema de rpg do servidor.
 
 ## SystemMessage Commands
 

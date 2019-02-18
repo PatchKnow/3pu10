@@ -188,22 +188,32 @@ Criado por: Denky#0001
 
 
 ## FeedBackClass Commands
+**ash feedback suggestion ou report**
+>Descrição: Manda uma mensagem de feedback diretamente pro time de criadores do bot, seja isso uma sugestão ou um bug.
 
 ## ForceCass Commands
 
 ## GameThinker Commands
+**ash guess**
+>Descrição: É um jogo de adivinhação onde o computador pensa num numero de 0 a 5 e você ganha se acertar.
 
 ## GetGif Commands
-
-## GuildBank Commands
+**ash gif (palavra chave do gif)**
+Descrição: Busca e mostra um gif baseado em uma palavra chave qualquer que você queira.
 
 ## GuildUpdate Commands
 
 ## HeadsOrTails Commands
+**ash moeda**
+>Descrição: É um jogo de cara ou coroa.
 
 ## Helper Commands
+**ash help**
+>Descrição: Manda a lista de comandos do bot pro seu privado.
 
 ## HugClass Commands
+**ash hug @(marque uma pessoa)**
+Descrição: Esse comando envia um gif de , onde você " quem você marcou". Ele funciona como o comando ash dance [clique aqui](#danceclass-commands) para ver a imagem.
 
 ## Inverse Commands
 
@@ -212,10 +222,16 @@ Criado por: Denky#0001
 ## JoKenPo Commands
 
 ## KickClass Commands
+**ash kick @(marque uma pessoa)**
+Descrição: Esse comando envia um gif de chute, onde "você chuta quem você marcou". Ele funciona como o comando ash dance [clique aqui](#danceclass-commands) para ver a imagem.
 
 ## KissClass Commands
+**ash kiss @(marque uma pessoa)**
+Descrição: Esse comando envia um gif de beijo, onde "você beija quem você marcou". Ele funciona como o comando ash dance [clique aqui](#danceclass-commands) para ver a imagem.
 
 ## LickClass Commands
+**ash lick @(marque uma pessoa)**
+Descrição: Esse comando envia um gif de lambida, onde "você lambe quem você marcou". Ele funciona como o comando ash dance [clique aqui](#danceclass-commands) para ver a imagem.
 
 ## LoadCog Commands
 
@@ -223,19 +239,7 @@ Criado por: Denky#0001
 
 ## MarriedSystem Commands
 
-## MemberUpdate Commands
-
 ## MusicDefault Commands
-
-## OnMemberJoin Commands
-
-## OnMemberRemove Commands
-
-## OnMessageDelete Commands
-
-## OnMessageEdit Commands
-
-## OnReady Commands
 
 ## Panel Commands
 
@@ -246,8 +250,12 @@ Criado por: Denky#0001
 ## ProfileSystem Commands
 
 ## PunchClass Commands
+**ash punch @(marque uma pessoa)**
+Descrição: Esse comando envia um gif de soco, onde "você soca quem você marcou". Ele funciona como o comando ash dance [clique aqui](#danceclass-commands) para ver a imagem.
 
 ## PushClass Commands
+**ash push @(marque uma pessoa)**
+Descrição: Esse comando envia um gif de empurrão, onde "você empurra quem você marcou". Ele funciona como o comando ash dance [clique aqui](#danceclass-commands) para ver a imagem.
 
 ## Reflection Commands
 
@@ -276,6 +284,8 @@ Criado por: Denky#0001
 ## SkinMine Commands
 
 ## SlapClass Commands
+**ash slap @(marque uma pessoa)**
+Descrição: Esse comando envia um gif de tapa, onde "você bate quem você marcou". Ele funciona como o comando ash dance [clique aqui](#danceclass-commands) para ver a imagem.
 
 ## SourceGit Commands
 

@@ -81,10 +81,7 @@ Criado por: Denky#0001
 - [RegisterClass Commands](#registerclass-commands)
 - [ReloadCog Commands](#reloadcog-commands)
 - [RepeatCommand Commands](#repeatcommand-commands)
-- [RoleCreate Commands](#rolecreate-commands)
-- [RoleDelete Commands](#roledelete-commands)
 - [RoleInfo Commands](#roleinfo-commands)
-- [RoleUpdate Commands](#roleupdate-commands)
 - [SaySomething Commands](#saysomething-commands)
 - [ServerInfo Commands](#serverinfo-commands)
 - [Shards Commands](#shards-commands)
@@ -211,10 +208,14 @@ Criado por: Denky#0001
 >Descrição: Esse comando envia um gif de , onde você " quem você marcou". Ele funciona como o comando ash dance [clique aqui](#danceclass-commands) para ver a imagem.
 
 ## Inverse Commands
+**ash palin**
+>Descrição: Manda um palindromo, palavra que faz sentido tanto lendo da direita pra esquerda quando da esquerda pra direita, pra você.
 
 ## InviteClass Commands
 
 ## JoKenPo Commands
+**ash jokenpo**
+>Descrição: O comando da inicio a um jogo de jokenpo com o bot.
 
 ## KickClass Commands
 **ash kick @(marque uma pessoa)**
@@ -273,15 +274,9 @@ Criado por: Denky#0001
 
 ## RepeatCommand Commands
 
-## RoleCreate Commands
-
-## RoleDelete Commands
-
 ## RoleInfo Commands
 **ash roleinfo @(o cargo que você quer checar)**
 >Descrição: Mostra um embed com algumas informações sobre o cargo que você marcou.
-
-## RoleUpdate Commands
 
 ## SaySomething Commands
 
@@ -290,6 +285,8 @@ Criado por: Denky#0001
 ## Shards Commands
 
 ## SkinMine Commands
+**ash skin (algum nome)**
+>Descrição: Manda pra você uma skill de minecraft que se refira ao nome informado.
 
 ## SlapClass Commands
 **ash slap @(marque uma pessoa)**

@@ -1,4 +1,7 @@
 # 🧙‍♀️Ashley🧝‍♀️
+<p align="center">
+<img height="384" src="https://i.imgur.com/3gxnqkI.png">
+</p>
 Meu primeiro projeto no GITHUB
 
 Criado por: Denky#0001🤴

@@ -45,7 +45,6 @@ Criado por: Denky#0001🤴
 - [DanceClass Commands](#danceclass-commands)
 - [DrawUsers Commands](#drawusers-commands)
 - [Economy Commands](#economy-commands)
-- [EmojiUpdate Commands](#emojiupdate-commands)
 - [EnterMember Commands](#entermember-commands)
 - [EvalSintax Commands](#evalsintax-commands)
 - [FarmClass Commands](#farmclass-commands)
@@ -54,7 +53,6 @@ Criado por: Denky#0001🤴
 - [GameThinker Commands](#gamethinker-commands)
 - [GetGif Commands](#getgif-commands)
 - [GuildBank Commands](#guildbank-commands)
-- [GuildUpdate Commands](#guildupdate-commands)
 - [HeadsOrTails Commands](#headsortails-commands)
 - [Helper Commands](#helper-commands)
 - [HugClass Commands](#hugclass-commands)
@@ -83,7 +81,6 @@ Criado por: Denky#0001🤴
 - [RoleInfo Commands](#roleinfo-commands)
 - [SaySomething Commands](#saysomething-commands)
 - [ServerInfo Commands](#serverinfo-commands)
-- [Shards Commands](#shards-commands)
 - [SkinMine Commands](#skinmine-commands)
 - [SlapClass Commands](#slapclass-commands)
 - [SourceGit Commands](#sourcegit-commands)
@@ -97,7 +94,6 @@ Criado por: Denky#0001🤴
 - [UpTimeOnline Commands](#uptimeonline-commands)
 - [UserInfo Commands](#userinfo-commands)
 - [VoteClass Commands](#voteclass-commands)
-- [WebhooksUpdate Commands](#webhooksupdate-commands)
 
 ## AllEmoji Commands
 **ash emoji**
@@ -163,8 +159,6 @@ Criado por: Denky#0001🤴
 **ash daily**
 >Descrição: De da uma quantia de dinheiro diaria pra você.
 
-## EmojiUpdate Commands
-
 ## EnterMember Commands
 **ash entrou @(a pessoa que você quer checar)**
 >Descrição: Esse comando te dira a exata data que um usuario entrou
@@ -173,7 +167,7 @@ Criado por: Denky#0001🤴
 **!!Comando exclusivo para a equipe de criação do bot!!**
 
 ## FarmClass Commands
-
+**COMMING SOON!**
 
 ## FeedBackClass Commands
 **ash feedback suggestion ou report**
@@ -188,8 +182,6 @@ Criado por: Denky#0001🤴
 ## GetGif Commands
 **ash gif (palavra chave do gif)**
 >Descrição: Busca e mostra um gif baseado em uma palavra chave qualquer que você queira.
-
-## GuildUpdate Commands
 
 ## HeadsOrTails Commands
 **ash moeda**
@@ -264,6 +256,7 @@ Criado por: Denky#0001🤴
 >Descrição: Manda uma imagem com uma frase de reflexão. Você pode colocar zueira na frente pra ver frases mais descontraidas.
 
 ## RegisterAnnounce Commands
+**!!Comando exclusivo para a equipe de criação do bot!!**
 
 ## RegisterClass Commands
 **ash register**
@@ -273,6 +266,7 @@ Criado por: Denky#0001🤴
 **!!Comando exclusivo para a equipe de criação do bot!!**
 
 ## RepeatCommand Commands
+**!!Comando exclusivo para a equipe de criação do bot!!**
 
 ## RoleInfo Commands
 **ash roleinfo @(o cargo que você quer checar)**
@@ -285,8 +279,6 @@ Criado por: Denky#0001🤴
 ## ServerInfo Commands
 **ash serverinfo**
 >Descrição: Retorna um embed com as informações do servidor em que você esta.
-
-## Shards Commands
 
 ## SkinMine Commands
 **ash skin (algum nome)**
@@ -313,8 +305,12 @@ Criado por: Denky#0001🤴
 Descrição: Manda uma frase do pensador pra você pensar.
 
 ## TopClass Commands
+**ash top (aquilo que você atualmente quer checar)**
+>Descrição: Mostra o top 20 atual de quem tem mais algo, aquilo que você citar no comando, dentre todos aqueles usando a Ashley. Você pode usar apenas ash top pra ter um embed com todos os "pontos" que esse comando é capaz de checar. 
 
 ## TotComandos Commands
+**ash total_de_comandos**
+>Descrição: Mostra o total de comandos que foram usados nela deis da ultima vez que ela foi restartada.
 
 ## UnloadCog Commands
 **!!Comando exclusivo para a equipe de criação do bot!!**
@@ -330,5 +326,3 @@ Descrição: Manda uma frase do pensador pra você pensar.
 ## VoteClass Commands
 **ash vote (sobre oq vão votar)**
 >Descrição: Cria uma enquete no canal que o comando foi executado, você escreve o texto da enquete que deve ser de sim ou não.
-
-## WebhooksUpdate Commands

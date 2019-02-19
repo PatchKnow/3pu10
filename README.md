@@ -102,7 +102,7 @@ Criado por: Denky#0001🤴
 ## AsciiText Commands
 **ash textao (o seu texto aqui)**
 >Descrição: Transforma seu texto em um padrao ascii.
-<p align="right">
+<p align="left">
 <img height="270" src="https://i.imgur.com/NjTHvJn.png">
 </p>
 

@@ -49,7 +49,7 @@ Criado por: Denky#0001🤴
 - [EvalSintax Commands](#evalsintax-commands)
 - [FarmClass Commands](#farmclass-commands)
 - [FeedBackClass Commands](#feedbackclass-commands)
-- [ForceCass Commands](#forcecass-commands)
+- [ForceClass Commands](#forceclass-commands)
 - [GameThinker Commands](#gamethinker-commands)
 - [GetGif Commands](#getgif-commands)
 - [GuildBank Commands](#guildbank-commands)
@@ -128,6 +128,15 @@ Criado por: Denky#0001🤴
 >Descrição: É um jogo que te mostrara uma charada na tela e pra ganhar você tera que respondela corretamente.
 
 ## ConfigClass Commands
+### Comandos de configuração.
+**ash config guild**
+>Descrição: Configura os canais do seu server caso você não tenha configurado ela assim que a registrou no seu server.
+
+**ash config language**
+>Descrição: Configura qual lingua a Ashley usara em seu servidor ingles ou portugues.
+
+**ash config report**
+>Descrição: 
 
 ## CreateDoc Commands
 **ash make_doc**
@@ -173,7 +182,9 @@ Criado por: Denky#0001🤴
 **ash feedback suggestion ou report**
 >Descrição: Manda uma mensagem de feedback diretamente pro time de criadores do bot, seja isso uma sugestão ou um bug.
 
-## ForceCass Commands
+## ForceClass Commands
+**ash forca**
+>Descrição: O comando da inicio a um jogo de forca, assim que faltarem apenas 3 letras para acabar você obrigado a adivinhar a palavra porem pode adivinhar em qualquer momento do jogo.
 
 ## GameThinker Commands
 **ash guess**
@@ -226,8 +237,56 @@ Criado por: Denky#0001🤴
 **!!Comando exclusivo para a equipe de criação do bot!!**
 
 ## MarriedSystem Commands
+### Sistema de Casamento
+
+**ash Marry @(o seu pretendente)**
+>Descrição: Você vai propor casamento pra pessoa que você marcou, se ela aceitar vocês se casam se não boa sorte da proxima vez.
+
+**ash divorce @(seu atual parceiro)**
+>Descrição: É o comando de divorcio, você usa e vocês se separam e cada um pro seu lado. E não esse comando não te da um advogado de divorcio gratis, sim é com você que estou falando SCHAYNNA.
 
 ## MusicDefault Commands
+### Comandos de Musica
+>Nota: Para todos esses comandos funcionariem propriamente você precisa estar conectado a um canal de voz.
+
+**ash join**
+>Descrição: Usando esse comando a Ashley entrara no canal em que você estiver atualmente.
+
+**ash play (nome ou link da musica no youtube)**
+>Descrição: Esse comando vai dar play na musica que você escolher no canal de texto que você estiver.
+
+**ash pause**
+>Descrição: Pausa a musica podendo continuar depois.
+
+**ash resume**
+>Descrição: Continua a musica pausada de onde ela parou.
+
+**ash skip**
+>Descrição: Pula a musica atual, se a pessoa que pediu a musica usar esse comando a musica pula automaticamente se não vai abrir uma votação onde metade das pessoas ouvindo tera que usar o comando pra musica ser pulada.
+
+**ash playlist**
+>Descrição: Mostra as musicas na fila de espera.
+
+**ash current**
+>Descrição: Mostra a musica que esta tocando atualmente.
+
+**ash vol (numero de 1 a 100)**
+>Descrição: Muda o volume da musica podendo ir de 1 até 100.
+
+**ash stop**
+>Descrição: Para todas as musicas atualmente na playlist e a que esta tocando. A Ashley sai do canal de voz assim que esse comando é usado.
+
+**ash shuffle**
+>Descrição: Embaralha as musica na playlist.
+
+**ash clear**
+>Descrição: Limpa a playlist removendo todas as musicas. A que esta tocando no momento não é afetada.
+
+**ash remove (numero da musica na playlist)**
+>Descrição: Remove uma musica da playlist baseado no numero dela na playlist.
+
+**ash repeat**
+>Descrição: Faz com que a playlist fique se repetindo sempre.
 
 ## Panel Commands
 **ash roles**
@@ -242,6 +301,8 @@ Criado por: Denky#0001🤴
 >Descrição: O comando mostra a imagem de um sprite de um pokemon (6ª Geração) e você tem que adivinhar o nome do pokemon em questão. O comando pokemon funciona da mesma maneira que o comando carta para ver a imagem [clique aqui](#cardsclass-commands).
 
 ## ProfileSystem Commands
+**ash profile @(um usuario)**
+>Descrição: Mostre o perfil da pessoa que você marcou, caso não marque ninguem o comando retornara o seu perfil.
 
 ## PunchClass Commands
 **ash punch @(marque uma pessoa)**
@@ -293,12 +354,27 @@ Criado por: Denky#0001🤴
 >Descrição: Esse comando te da o link pro github do arquivo que se refere ao comando que você citou
 
 ## StaffAdmin Commands
+### Lista de Comandos Pra Staff
+
+**ash staff kick @(usuario a ser kicado)**
+>Descrição: Kica o usuario que você marcou do servidor.
+
+**ash staff ban @(usuario a ser banido)**
+>Descrição: Bane o usuario marcado do servidor.
+
+**ash staff delete (numero de mensagens pra deletar)**
+>Descrição: Deleta a quantidade de mensagens que você especificou no comando.
+
+**ash staff report**
+>Descrição: Manda o formulario de report/denuncia de usuario pro seu privado tudo que você precisa fazer é responder.
+
 
 ## StatusClass Commands
 **ash status**
 >Descrição: Te devolve sua fixa de atributos referente ao futuro sistema de rpg do servidor.
 
 ## SystemMessage Commands
+**!!Comando exclusivo para a equipe de criação do bot!!**
 
 ## Thinkers Commands
 **ash pensador**

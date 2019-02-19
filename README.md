@@ -103,7 +103,7 @@ Criado por: Denky#0001🤴
 **ash textao (o seu texto aqui)**
 >Descrição: Transforma seu texto em um padrao ascii.
 <p align="center">
-<img height="384" src="https://i.imgur.com/NjTHvJn.png">
+<img height="270" src="https://i.imgur.com/NjTHvJn.png">
 </p>
 
 ## AutoDelete Commands

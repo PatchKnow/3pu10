@@ -42,7 +42,6 @@ Criado por: Denky#0001🤴
 - [ConfigClass Commands](#configclass-commands)
 - [CreateDoc Commands](#createdoc-commands)
 - [DadoClass Commands](#dadoclass-commands)
-- [DailyClass Commands](#dailyclass-commands)
 - [DanceClass Commands](#danceclass-commands)
 - [DrawUsers Commands](#drawusers-commands)
 - [Economy Commands](#economy-commands)

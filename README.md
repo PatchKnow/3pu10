@@ -96,7 +96,6 @@ Criado por: Denky#0001🤴
 - [TotComandos Commands](#totcomandos-commands)
 - [UnloadCog Commands](#unloadcog-commands)
 - [UpTimeOnline Commands](#uptimeonline-commands)
-- [UserBank Commands](#userbank-commands)
 - [UserInfo Commands](#userinfo-commands)
 - [VoteClass Commands](#voteclass-commands)
 - [WebhooksUpdate Commands](#webhooksupdate-commands)
@@ -142,8 +141,6 @@ Criado por: Denky#0001🤴
 ## DadoClass Commands
 **ash rolar xdy**
 >Descrição: Esse comando é feito pra rolar dados. X é o numero de dados e Y o numero de faces dos dados.
-
-## DailyClass Commands
 
 ## DanceClass Commands
 **ash dance @(marque uma pessoa)**
@@ -242,6 +239,8 @@ Criado por: Denky#0001🤴
 ## MusicDefault Commands
 
 ## Panel Commands
+**ash roles**
+>Descrição: Retorna um pequeno menu pra você poder pegar certos cargos no server da Ashley.
 
 ## PingMS Commands
 **ash ping**
@@ -322,11 +321,15 @@ Descrição: Manda uma frase do pensador pra você pensar.
 **!!Comando exclusivo para a equipe de criação do bot!!**
 
 ## UpTimeOnline Commands
-
-## UserBank Commands
+**ash online**
+>Descrição: Mostra a quanto tempo o modulo principal da Ashley esta online sem ser desligado ou restartado.
 
 ## UserInfo Commands
+**ash userinfo @(um usuario)**
+>Descrição: Retorna um embed com informações sobre o usuario marcado. Caso use apenas userinfo sem marcar ninguem recebera suas proprias informações.
 
 ## VoteClass Commands
+**ash vote (sobre oq vão votar)**
+>Descrição: Cria uma enquete no canal que o comando foi executado, você escreve o texto da enquete que deve ser de sim ou não.
 
 ## WebhooksUpdate Commands

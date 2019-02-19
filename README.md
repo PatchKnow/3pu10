@@ -113,6 +113,9 @@ Criado por: Denky#0001🤴
 ## Avatar Commands
 **ash avatar @(O usuario o qual você deseja ver o avatar.)**
 >Descrição: Mostra o avatar da pessoa marcada, caso você não marque ninguem mostrara seu proprio avatar.
+<p align="left">
+<img height="270" src="https://i.imgur.com/B8dAjCt.png">
+</p>
 
 ## Booket Commands
 **ash bok @(pessoa desejada)**
@@ -125,10 +128,16 @@ Criado por: Denky#0001🤴
 ## CardsClass Commands
 **ash card**
 >Descrição: É um jogo que te mostrara uma carta aleatoria de Yu-Gi-Oh, pra ganhar o jogo você precisa acertar o nome da carta ou pelo menos chegar perto
+<p align="left">
+<img height="270" src="https://i.imgur.com/v9O1GbX.png">
+</p>
 
 ## CharadeClass Commands
 **ash charade ou ash charada**
 >Descrição: É um jogo que te mostrara uma charada na tela e pra ganhar você tera que respondela corretamente.
+<p align="left">
+<img height="270" src="https://i.imgur.com/W50d4rD.png">
+</p>
 
 ## ConfigClass Commands
 ### Comandos de configuração.
@@ -148,14 +157,23 @@ Criado por: Denky#0001🤴
 ## DadoClass Commands
 **ash rolar xdy**
 >Descrição: Esse comando é feito pra rolar dados. X é o numero de dados e Y o numero de faces dos dados.
+<p align="left">
+<img height="270" src="https://i.imgur.com/u7utLAW.png">
+</p>
 
 ## DanceClass Commands
 **ash dance @(marque uma pessoa)**
 >Descrição: Esse comando mostra um gif de dança onde "você dança que você marcou".
+<p align="left">
+<img height="270" src="https://i.imgur.com/QJczAH2.png">
+</p>
 
 ## DrawUsers Commands
 **ash sorteio**
 >Descrição: Sorteia um membro aleatorio do servidor.
+<p align="left">
+<img height="270" src="https://i.imgur.com/jCTodtI.png">
+</p>
 
 ## Economy Commands
 ### Sistema de Economia
@@ -167,6 +185,10 @@ Criado por: Denky#0001🤴
 
 **ash carteira (moeda desejada)**
 >Descrição: Mostra quanto você tem de determinada moeda. Você pode usar o comando apenas como ash carteira caso queira ver a lista de moedas.
+
+<p align="left">
+<img height="270" src="https://i.imgur.com/ZqbTp0n.png">
+</p>
 
 **ash daily**
 >Descrição: De da uma quantia de dinheiro diaria pra você.
@@ -184,6 +206,9 @@ Criado por: Denky#0001🤴
 ## FeedBackClass Commands
 **ash feedback suggestion ou report**
 >Descrição: Manda uma mensagem de feedback diretamente pro time de criadores do bot, seja isso uma sugestão ou um bug.
+<p align="left">
+<img height="270" src="https://i.imgur.com/3hZ2fNM.png">
+</p>
 
 ## ForceClass Commands
 **ash forca**
@@ -192,10 +217,16 @@ Criado por: Denky#0001🤴
 ## GameThinker Commands
 **ash guess**
 >Descrição: É um jogo de adivinhação onde o computador pensa num numero de 0 a 5 e você ganha se acertar.
+<p align="left">
+<img height="270" src="https://i.imgur.com/0rHOUTL.png">
+</p>
 
 ## GetGif Commands
 **ash gif (palavra chave do gif)**
 >Descrição: Busca e mostra um gif baseado em uma palavra chave qualquer que você queira.
+<p align="left">
+<img height="270" src="https://i.imgur.com/mvgPz6M.png">
+</p>
 
 ## HeadsOrTails Commands
 **ash moeda**
@@ -220,6 +251,9 @@ Criado por: Denky#0001🤴
 ## JoKenPo Commands
 **ash jokenpo**
 >Descrição: O comando da inicio a um jogo de jokenpo com o bot.
+<p align="left">
+<img height="270" src="https://i.imgur.com/S2DJGcE.png">
+</p>
 
 ## KickClass Commands
 **ash kick @(marque uma pessoa)**
@@ -244,9 +278,15 @@ Criado por: Denky#0001🤴
 
 **ash Marry @(o seu pretendente)**
 >Descrição: Você vai propor casamento pra pessoa que você marcou, se ela aceitar vocês se casam se não boa sorte da proxima vez.
+<p align="left">
+<img height="270" src="https://i.imgur.com/QfArPCp.png">
+</p>
 
 **ash divorce @(seu atual parceiro)**
 >Descrição: É o comando de divorcio, você usa e vocês se separam e cada um pro seu lado. E não esse comando não te da um advogado de divorcio gratis, sim é com você que estou falando SCHAYNNA.
+<p align="left">
+<img height="270" src="https://i.imgur.com/fSt2mzx.png">
+</p>
 
 ## MusicDefault Commands
 ### Comandos de Musica
@@ -306,6 +346,9 @@ Criado por: Denky#0001🤴
 ## ProfileSystem Commands
 **ash profile @(um usuario)**
 >Descrição: Mostre o perfil da pessoa que você marcou, caso não marque ninguem o comando retornara o seu perfil.
+<p align="left">
+<img height="270" src="https://i.imgur.com/gQrVzDr.png">
+</p>
 
 ## PunchClass Commands
 **ash punch @(marque uma pessoa)**
@@ -335,6 +378,9 @@ Criado por: Denky#0001🤴
 ## RoleInfo Commands
 **ash roleinfo @(o cargo que você quer checar)**
 >Descrição: Mostra um embed com algumas informações sobre o cargo que você marcou.
+<p align="left">
+<img height="270" src="https://i.imgur.com/eUlSPSA.png">
+</p>
 
 ## SaySomething Commands
 **ash say (sua mensagem)**
@@ -347,6 +393,9 @@ Criado por: Denky#0001🤴
 ## SkinMine Commands
 **ash skin (algum nome)**
 >Descrição: Manda pra você uma skill de minecraft que se refira ao nome informado.
+<p align="left">
+<img height="270" src="https://i.imgur.com/GKncAag.png">
+</p>
 
 ## SlapClass Commands
 **ash slap @(marque uma pessoa)**
@@ -354,7 +403,10 @@ Criado por: Denky#0001🤴
 
 ## SourceGit Commands
 **ash source (um comando da ashley)**
->Descrição: Esse comando te da o link pro github do arquivo que se refere ao comando que você citou
+>Descrição: Esse comando te da o link pro github do arquivo que se refere ao comando que você citou.
+<p align="left">
+<img height="270" src="https://i.imgur.com/povV4XC.png">
+</p>
 
 ## StaffAdmin Commands
 ### Lista de Comandos Pra Staff
@@ -386,6 +438,9 @@ Descrição: Manda uma frase do pensador pra você pensar.
 ## TopClass Commands
 **ash top (aquilo que você atualmente quer checar)**
 >Descrição: Mostra o top 20 atual de quem tem mais algo, aquilo que você citar no comando, dentre todos aqueles usando a Ashley. Você pode usar apenas ash top pra ter um embed com todos os "pontos" que esse comando é capaz de checar. 
+<p align="left">
+<img height="270" src="https://i.imgur.com/EhYyAVR.png">
+</p>
 
 ## TotComandos Commands
 **ash total_de_comandos**
@@ -401,7 +456,13 @@ Descrição: Manda uma frase do pensador pra você pensar.
 ## UserInfo Commands
 **ash userinfo @(um usuario)**
 >Descrição: Retorna um embed com informações sobre o usuario marcado. Caso use apenas userinfo sem marcar ninguem recebera suas proprias informações.
+<p align="left">
+<img height="270" src="https://i.imgur.com/UryFYu2.png">
+</p>
 
 ## VoteClass Commands
 **ash vote (sobre oq vão votar)**
 >Descrição: Cria uma enquete no canal que o comando foi executado, você escreve o texto da enquete que deve ser de sim ou não.
+<p align="left">
+<img height="270" src="https://i.imgur.com/qsXHPTk.png">
+</p>

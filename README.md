@@ -135,6 +135,9 @@ Criado por: Denky#0001🤴
 **ash config language**
 >Descrição: Configura qual lingua a Ashley usara em seu servidor ingles ou portugues.
 
+**ash config report**
+>Descrição: Define o canal pra onde o feedback dos comandos do bot vão.
+
 ## CreateDoc Commands
 **ash make_doc**
 >Descrição: Cria um arquivo .md que ajuda a criar um arquivo README.md.

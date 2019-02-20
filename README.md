@@ -241,7 +241,7 @@ Criado por: Denky#0001🤴
 
 ## HugClass Commands
 **ash hug @(marque uma pessoa)**
->Descrição: Esse comando envia um gif de , onde você " quem você marcou". Ele funciona como o comando ash dance [clique aqui](#danceclass-commands) para ver a imagem.
+>Descrição: Esse comando envia um gif de abraço, onde você "abraça quem você marcou". Ele funciona como o comando ash dance [clique aqui](#danceclass-commands) para ver a imagem.
 
 ## Inverse Commands
 **ash palin**

@@ -207,10 +207,16 @@ Criado por: Denky#0001🤴
 **COMMING SOON!**
 
 ## FeedBackClass Commands
-**ash feedback suggestion ou report**
->Descrição: Manda uma mensagem de feedback diretamente pro time de criadores do bot, seja isso uma sugestão ou um bug.
+**ash feedback suggestion**
+>Descrição: Pede uma sugestão rapida sobre o que você acharia legal colocar no bot. Não precisa pedir por mais NSFW ja ta sendo produzido. ( ° ͜ʖ ͡°)
 <p align="left">
-<img height="270" src="https://i.imgur.com/3hZ2fNM.png">
+<img height="270" src="https://i.imgur.com/H1XSWnx.png">
+</p>
+
+**ash feedback report**
+>Descrição: Manda um formulario de 4 perguntas pro seu privado apenas as responda e o bug sera reportado.
+<p align="left">
+<img height="270" src="https://i.imgur.com/iUX7uF3.png">
 </p>
 
 ## ForceClass Commands

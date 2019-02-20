@@ -193,8 +193,11 @@ Criado por: Denky#0001🤴
 <img height="270" src="https://i.imgur.com/ZqbTp0n.png">
 </p>
 
-**ash daily**
->Descrição: De da uma quantia de dinheiro diaria pra você.
+**ash daily coin**
+>Descrição: Pode ser usado uma vez por dia para ganhar algumas fichas pra jogar alguns dos jogos da ashley.
+
+**ash daily work**
+>Descrição: Pode ser usado uma vez por dia para ganhar um pouco de dinheiro.
 
 ## EnterMember Commands
 **ash entrou @(a pessoa que você quer checar)**
